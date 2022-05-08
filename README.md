@@ -1,5 +1,5 @@
 # quiz-app
-Quiz app with 10 questions
+Quiz app with 10 questions (pt-BR questions)
 
  - Each question has one right answer
  - After the 10th question you get your score
